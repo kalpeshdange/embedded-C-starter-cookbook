@@ -5,7 +5,7 @@ int main(){
 	int a=90;
 	int b=78;
 	int c;
-	c= a+b;
+	c= a+b; //addition of 2 numbers
 	printf("value of c:%d",c);
 	return(0);
 
