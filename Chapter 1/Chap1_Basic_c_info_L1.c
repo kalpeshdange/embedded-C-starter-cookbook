@@ -1,4 +1,9 @@
-/* Basic C programming information*/
+/*
+Author: Kalpesh Dange
+Date: 03-November-2024
+Description: 
+*/
+
 
 #include<stdio.h>
 
