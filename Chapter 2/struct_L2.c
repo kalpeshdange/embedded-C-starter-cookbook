@@ -15,6 +15,6 @@ int main()
 	printf("Size of the struct 'start_t': %d\n", struct_size);
 	inst_struct.member1 = 23; // Assigning value 23 to member1 which is integer type.
 	printf("Value of integer type member1: %d\n", inst_struct.member1);
-	//inst_struct.mem2 = "Hello"; // Assigning value 23.67 to member2 which is float type.
+	inst_struct.mem2 = "Hello"; // Assigning value 23.67 to member2 which is float type.
 	//printf("Value of string type member2: %s\n", inst_struct.mem2);
 }
